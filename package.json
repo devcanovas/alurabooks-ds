@@ -35,8 +35,8 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "ds-alurabooks-base",
-  "author": "vinicios neves",
+  "name": "devcanovas-alurabooks-base",
+  "author": "matheus canovas",
   "module": "dist/ds-alurabooks-base.esm.js",
   "size-limit": [
     {
@@ -67,5 +67,8 @@
     "tsdx": "^0.14.1",
     "tslib": "^2.4.1",
     "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "styled-components": "^6.1.8"
   }
 }
